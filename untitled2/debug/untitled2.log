@@ -1,0 +1,11 @@
+﻿  Generate moc_predefs.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(241,5): warning MSB8064: 项“debug\moc_predefs.h.cbt”的自定义生成成功，但指定的依赖项“c:\users\bsm\documents\untitled2\debug\moc_predefs.h.cbt”不存在。这可能会导致增量生成无法正常工作。
+  Moc'ing mainwindow.h...
+  main.cpp
+  mainwindow.cpp
+C:\Users\bsm\Documents\untitled2\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 main.cpp)
+C:\Users\bsm\Documents\untitled2\mainwindow.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\bsm\Documents\untitled2\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失 (编译源文件 mainwindow.cpp)
+  moc_mainwindow.cpp
+C:\Users\bsm\Documents\untitled2\mainwindow.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  untitled2.vcxproj -> C:\Users\bsm\Documents\untitled2\debug\untitled2.exe
